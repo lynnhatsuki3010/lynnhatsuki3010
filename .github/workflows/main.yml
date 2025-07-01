@@ -19,7 +19,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.anilist.characters.svg
           base: ""
-          plugin_anilist_username: lynnhatsuki
+          plugin_anilist_username: "lynnhatsuki"
           plugin_anilist: yes
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 12
+          plugin_anilist_display_characters: yes
