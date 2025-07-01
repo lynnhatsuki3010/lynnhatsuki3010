@@ -1,0 +1,9 @@
+{
+  "metrics": {
+    "run": {
+      "puppeteer": {
+        "scrapping": true
+      }
+    }
+  }
+}
