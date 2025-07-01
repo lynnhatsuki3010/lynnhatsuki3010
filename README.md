@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://images.app.goo.gl/pckYsEGmhMDU12wD8"  />
+  <img height="200" src="https://i.makeagif.com/media/4-02-2024/F8j7bi.gif"  />
 </div>
 
 ###
@@ -17,7 +17,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lynnhatsuki3010/lynnhatsuki3010/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -59,23 +58,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31vkwwagl5kkmxoifr3wpojo54yy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vkwwagl5kkmxoifr3wpojo54yy&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=lynnhatsuki3010&theme=tokyonight" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
