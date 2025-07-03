@@ -10,7 +10,11 @@
 
 
 ###
-<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
+<div align="center">
+      <p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+      <p align="right"><img src="/metrics.plugin.anilist.characters.svg" alt="fav-chars" width="400"></p>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lynnhatsuki3010&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -59,7 +63,7 @@
 </div>
 
 
-<p align="left"><img src="/metrics.plugin.anilist.characters.svg" alt="fav-chars" width="400"></p>
+
 
 ###
 
