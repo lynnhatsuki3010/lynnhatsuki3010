@@ -12,8 +12,8 @@
 ###
 
 <div align="center">
-      <p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-      <p align="right"><img src="/metrics.plugin.anilist.characters.svg" alt="fav-chars" width="400"></p>
+      <p><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+      <p><img src="/metrics.plugin.anilist.characters.svg" alt="fav-chars" width="400"></p>
 </div>
 
 <div align="center">
@@ -61,8 +61,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="35" alt="discord logo"  />
   </a>
 </div>
-
-
 
 
 ###
