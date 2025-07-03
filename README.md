@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://64.media.tumblr.com/0795558958005464307775431d6ce882/276f29013080ace8-17/s1280x1920/3408c1a3b77a41be13f000a14fcaba171e88c90c.gifv"  />
+  <img height="200" width="800" src="https://64.media.tumblr.com/0795558958005464307775431d6ce882/276f29013080ace8-17/s1280x1920/3408c1a3b77a41be13f000a14fcaba171e88c90c.gifv"  />
 </div>
 
 
