@@ -4,9 +4,9 @@
 
 ###
 
-<div align="center">
-  ![bb](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Facheron-trailer-your-color-honkai-star-rail-F8j7bi&psig=AOvVaw2IMMM6LzJDFk4bUWK1f2Up&ust=1751689559977000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi6l42hrqKOAxXhXvUHHVxDJr8QjRx6BAgAEBg)
-</div>
+
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Facheron-trailer-your-color-honkai-star-rail-F8j7bi&psig=AOvVaw2IMMM6LzJDFk4bUWK1f2Up&ust=1751689559977000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi6l42hrqKOAxXhXvUHHVxDJr8QjRx6BAgAEBg)
+
 
 
 ###
