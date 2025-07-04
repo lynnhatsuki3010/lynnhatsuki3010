@@ -7,7 +7,7 @@
 
 
 <div align="center">
-       <p><img src="https://github.com/user-attachments/assets/fe9ff2d2-2cd2-4c6e-a23e-e150b2d05140" alt="ttt" width="1050" height="174"></p>
+       <a href="https://lynnhatsuki-portfolio.netlify.app/" target="_blank" alt="my portfolio"><img src="https://github.com/user-attachments/assets/fe9ff2d2-2cd2-4c6e-a23e-e150b2d05140" alt="ttt" width="1050" height="174"></a>
 </div>
 
 
