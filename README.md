@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" width="800" src="https://64.media.tumblr.com/0795558958005464307775431d6ce882/276f29013080ace8-17/s1280x1920/3408c1a3b77a41be13f000a14fcaba171e88c90c.gifv"  />
+  ![bb](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Facheron-trailer-your-color-honkai-star-rail-F8j7bi&psig=AOvVaw2IMMM6LzJDFk4bUWK1f2Up&ust=1751689559977000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi6l42hrqKOAxXhXvUHHVxDJr8QjRx6BAgAEBg)
 </div>
 
 
