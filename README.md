@@ -5,8 +5,10 @@
 ###
 
 
-![alt text](https://images.app.goo.gl/E1ZJg9TdHTds7AsLA)
 
+<div align="center">
+       <p><img src="https://github.com/user-attachments/assets/fe9ff2d2-2cd2-4c6e-a23e-e150b2d05140" alt="ttt" width="1050" height="174"></p>
+</div>
 
 
 ###
